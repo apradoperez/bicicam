@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono de BiciCAM: el triángulo de BiciLAB en el rojo del piloto de grabación, dentro del marco rojo que
+     la app pone alrededor de la pantalla mientras la cámara graba, sobre el azul marino de la equipación BCLB. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="1024">
+    <path android:fillColor="#FFD7261E" android:pathData="M210,0h604a210,210 0 0 1 210,210v604a210,210 0 0 1 -210,210h-604a210,210 0 0 1 -210,-210v-604a210,210 0 0 1 210,-210z" />
+    <path android:fillColor="#FF1F2555" android:pathData="M228,92h568a136,136 0 0 1 136,136v568a136,136 0 0 1 -136,136h-568a136,136 0 0 1 -136,-136v-568a136,136 0 0 1 136,-136z" />
+    <group android:translateX="232" android:translateY="258" android:scaleX="0.364" android:scaleY="0.364">
+        <path android:fillColor="#FFD7261E" android:pathData="M632.1 493.6L146.6 1334.5L1418.7 1334.5L1537.8 1097.8L512.9 1097.8L501.4 1087.7L501.4 1067.1L732.3 667.2ZM0 1090L118 1317.2L619.7 448.3L640.3 450.4L889.1 838.5L1113.5 838.5L629.3 0ZM669.1 1.5L1165.5 861.4L1157.1 869.8L658 869.8L546.6 1062.8L1520.5 1062.8L907.8 1.5Z" />
+    </group>
+</vector>

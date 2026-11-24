@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Variante de prueba: igual que la que se publica, pero sin la dirección de actualizaciones. Sirve para instalar
+     en un Karoo antes de que exista el repositorio (y con él, el manifest al que apunta esa dirección). -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <application>
+        <meta-data
+            android:name="io.hammerhead.karooext.MANIFEST_URL"
+            tools:node="remove" />
+    </application>
+</manifest>

@@ -1,0 +1,24 @@
+*.iml
+.gradle
+.kotlin/
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+
+# Clave de firma y compilados: nunca al repositorio
+/firma
+firma.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+
+# Notas y material de trabajo internos
+/LEEME.md
+/pruebas/
+/auditoria/
+/instalar.sh
+/logo/propuestas/

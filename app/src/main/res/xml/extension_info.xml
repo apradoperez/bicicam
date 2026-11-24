@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionInfo
+    displayName="@string/extension_name"
+    icon="@drawable/ic_bicicam"
+    id="bicicam"
+    scansDevices="false">
+    <DataType
+        description="@string/status_description"
+        displayName="@string/status_name"
+        graphical="true"
+        icon="@drawable/ic_bicicam"
+        typeId="status" />
+    <DataType
+        description="@string/record_description"
+        displayName="@string/record_name"
+        graphical="true"
+        icon="@drawable/ic_bicicam"
+        typeId="record" />
+    <DataType
+        description="@string/record_battery_description"
+        displayName="@string/record_battery_name"
+        graphical="true"
+        icon="@drawable/ic_bicicam"
+        typeId="record-battery" />
+    <DataType
+        description="@string/record_battery_wide_description"
+        displayName="@string/record_battery_wide_name"
+        graphical="true"
+        icon="@drawable/ic_bicicam"
+        typeId="record-battery-wide" />
+    <DataType
+        description="@string/battery_description"
+        displayName="@string/battery_name"
+        graphical="true"
+        icon="@drawable/ic_bicicam"
+        typeId="battery" />
+    <DataType
+        description="@string/power_description"
+        displayName="@string/power_name"
+        graphical="true"
+        icon="@drawable/ic_bicicam"
+        typeId="power" />
+    <DataType
+        description="@string/card_description"
+        displayName="@string/card_name"
+        graphical="true"
+        icon="@drawable/ic_bicicam"
+        typeId="card" />
+    <DataType
+        description="@string/marker_description"
+        displayName="@string/marker_name"
+        graphical="true"
+        icon="@drawable/ic_bicicam"
+        typeId="marker" />
+    <BonusAction
+        actionId="toggle-recording"
+        displayName="@string/action_toggle_recording" />
+    <BonusAction
+        actionId="add-marker"
+        displayName="@string/action_add_marker" />
+</ExtensionInfo>

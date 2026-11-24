@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BiciCAM</string>
+    <string name="extension_name">BiciCAM</string>
+    <string name="status_name">Cámara: REC, batería y tarjeta</string>
+    <string name="status_description">Todo en un campo, en tres filas: REC o el tiempo de grabación, la batería de la cámara y lo que cabe en la tarjeta. Un toque empieza; un toque para (o dos, según los ajustes).</string>
+    <string name="record_name">Cámara: REC</string>
+    <string name="record_description">Enseña el estado de la cámara. Un toque empieza o para la grabación.</string>
+    <string name="record_battery_name">Cámara: REC y batería (estrecho)</string>
+    <string name="record_battery_description">Como el campo de REC, con la batería de la cámara en grande debajo de REC. Para campos estrechos. Un toque empieza o para la grabación.</string>
+    <string name="record_battery_wide_name">Cámara: REC y batería (ancho)</string>
+    <string name="record_battery_wide_description">REC y la batería de la cámara uno al lado del otro, los dos en grande. Para campos de lado a lado. Un toque empieza o para la grabación.</string>
+    <string name="battery_name">Cámara: batería</string>
+    <string name="battery_description">Batería de la cámara emparejada, y si su pantalla está encendida.</string>
+    <string name="power_name">Cámara: encender y apagar</string>
+    <string name="power_description">Enseña si la cámara está encendida. Dos toques la apagan. La cámara se enciende con su propio botón.</string>
+    <string name="card_name">Cámara: tarjeta</string>
+    <string name="card_description">Tiempo de vídeo que cabe aún en la tarjeta de la cámara, con el modo en que está.</string>
+    <string name="marker_name">Cámara: marcador</string>
+    <string name="marker_description">Un toque deja un marcador en el vídeo que se está grabando.</string>
+    <string name="action_toggle_recording">Cámara: REC</string>
+    <string name="action_add_marker">Cámara: marcador</string>
+</resources>

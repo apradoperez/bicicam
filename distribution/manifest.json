@@ -1,0 +1,11 @@
+{
+  "label": "BiciCAM",
+  "packageName": "es.bicilab.bicicam",
+  "iconUrl": "https://raw.githubusercontent.com/apradoperez/bicicam/main/logo/bicicam.png",
+  "latestApkUrl": "https://github.com/apradoperez/bicicam/releases/latest/download/bicicam.apk",
+  "latestVersion": "0.6.0",
+  "latestVersionCode": 38,
+  "developer": "BiciLAB",
+  "description": "Control a DJI Osmo Action from your Karoo: record, stop, battery, card, markers and a red frame while it records.\n\nDJI and Osmo are trademarks of their owners. BiciCAM is not affiliated with or endorsed by DJI or Hammerhead.",
+  "releaseNotes": "First public version: DJI Osmo Action control, eight data fields, red recording frame, in-ride alerts, English and Spanish. Tested with an Osmo Action 6 in real rides on 13 and 22 November 2026."
+}

@@ -1,0 +1,6 @@
+<resources>
+    <!-- Avisos durante la ruta: azul marino de la equipación BCLB 2027 y rojo de piloto de grabación -->
+    <color name="alert_background">#FF1F2555</color>
+    <color name="alert_text">#FFFFFFFF</color>
+    <color name="alert_error_background">#FFD7261E</color>
+</resources>
